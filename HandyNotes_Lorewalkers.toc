@@ -1,0 +1,12 @@
+## Interface: 80205
+## Title: HandyNotes_Lorewalkers
+## Notes: Updated version of lorewalkers addon
+## Author: Kemayo
+## Version: 1
+## DefaultState: enabled
+## X-Category: Map
+## X-eMail: jsorensen.m @ gmail DOT com
+## SavedVariables: HandyNotes_LorewalkersDB
+## RequiredDeps: HandyNotes
+
+Lore.lua
