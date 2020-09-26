@@ -4,7 +4,6 @@ HandyNotes_Lorewalkers = LibStub("AceAddon-3.0"):NewAddon("HandyNotes_Lorewalker
 
 local HL = HandyNotes_Lorewalkers
 local HandyNotes = LibStub("AceAddon-3.0"):GetAddon("HandyNotes")
--- local L = LibStub("AceLocale-3.0"):GetLocale("HandyNotes_Lorewalkers", true)
 
 local debugf = tekDebug and tekDebug:GetFrame("Lorewalkers")
 local function Debug(...) if debugf then debugf:AddMessage(string.join(", ", tostringall(...))) end end
